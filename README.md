@@ -1,4 +1,4 @@
-# Real-World Data Analytics Portfolio – Excel, SQL, Power BI & Azure
+# Data Analytics Portfolio – Excel, SQL, Power BI & Azure
 
 Hi, I'm Ariya. With 2 years of experience as a Scheduler at Thames Water, I have transitioned into the world of data analytics, applying my background in Engineering and Technology Management.
 
