@@ -16,7 +16,7 @@ This portfolio documents my hands-on learning and practice across essential tool
 
 ---
 
-## 📂 Portfolio Structure
+##  Portfolio Structure
 
 | Module | Area Covered | Folder |
 |--------|--------------|--------|
@@ -29,8 +29,8 @@ This portfolio documents my hands-on learning and practice across essential tool
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m passionate about data-driven decisions and have worked with scheduling operations at scale. This portfolio represents my transition into data analytics, and I'm seeking opportunities where I can apply both my operations background and new data skills to drive impact.
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+**Connect with me**: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
